@@ -58,8 +58,7 @@ Pode-se perceber que este tipo de estratégia de gerenciamento de commits não d
 - (+) Commit rápido, sem gastar tempo refinando a mensagem de commit
 
 ---
----
----
+
 
 ## 2. [CASO BOM]
 Exemplo BOM de gestão de código no git
